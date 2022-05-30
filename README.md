@@ -1,2 +1,2 @@
 # PicGo-image
-For storing the images of my newsletter.
+Only for image hosting of my newsletter.
